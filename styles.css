@@ -1,0 +1,18 @@
+.bloque{
+    background-image:url('imagenes/welcome-events-1200x675.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.lol{
+    height: 385px;
+    width: 400px;
+    margin: auto;
+}
+ body{
+     background-color: rgba(210, 213, 214, 0.432);
+ }
+
+ .container{
+     box-shadow: 10px 6px 100px rgb(26, 26, 26);
+ }
