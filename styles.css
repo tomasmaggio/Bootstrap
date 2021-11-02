@@ -1,3 +1,4 @@
+/*
 .bloque{
     background-image:url('imagenes/welcome-events-1200x675.jpg');
     background-repeat: no-repeat;
@@ -16,3 +17,37 @@
  .container{
      box-shadow: 10px 6px 100px rgb(26, 26, 26);
  }
+*/
+
+
+
+.titulo{
+    color: white;
+}
+
+.logotipo{
+    height: 80px;
+    width: 80px;
+
+}
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.card{
+    background: rgb(93,171,244);
+    background: linear-gradient(90deg, rgba(93,171,244,1) 0%, rgba(173,29,253,1) 50%, rgba(239,69,252,1) 100%); 
+}
+
+.card-body{
+    background-color: rgb(53, 53, 53);
+}
+.card-title{
+    background: linear-gradient(90deg, rgba(93,171,244,1) 0%, rgba(173,29,253,1) 50%, rgba(239,69,252,1) 100%); 
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.card-text{
+    color: rgb(255, 255, 255);
+}
