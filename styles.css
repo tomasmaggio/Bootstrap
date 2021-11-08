@@ -1,4 +1,10 @@
 /*
+(PAGINA DE INICIO DE CET 30)
+
+
+
+
+
 .bloque{
     background-image:url('imagenes/welcome-events-1200x675.jpg');
     background-repeat: no-repeat;
@@ -21,6 +27,14 @@
 
 
 
+
+
+
+
+
+/*
+(PAGINA DE GIFS)
+*/
 .titulo{
     color: white;
 }
@@ -50,4 +64,25 @@ body{
 }
 .card-text{
     color: rgb(255, 255, 255);
+}
+
+.tamaño{
+    height: 450px;
+    width: 300px;
+}
+
+.alineacion-imagen {
+    width: 140px;
+    height: 150px;
+
+    
+}
+
+
+footer{
+    margin-top: 15em;
+    text-align: center;
+    clear: both;
+    color: aliceblue;
+    background-color:rgb(53, 53, 53);
 }
