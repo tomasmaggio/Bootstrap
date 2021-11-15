@@ -80,6 +80,7 @@ body{
 
 
 footer{
+    padding: 1em;
     margin-top: 15em;
     text-align: center;
     clear: both;
@@ -87,3 +88,11 @@ footer{
     background-color:rgb(53, 53, 53);
 }
 
+.categories{
+    background: linear-gradient(90deg, rgba(93,171,244,1) 0%, rgba(173,29,253,1) 50%, rgba(239,69,252,1) 100%); 
+    color: aliceblue;
+    padding-top: 1px;
+    font-size: 3em;
+
+    
+}
